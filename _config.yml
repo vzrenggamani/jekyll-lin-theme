@@ -33,8 +33,6 @@ lin:
     googleplus: +jekyll
     keybase: jekyll
 
-theme: lin
-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
